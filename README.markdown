@@ -1,3 +1,6 @@
+<img width="640" height="263" alt="image" src="https://github.com/user-attachments/assets/606be6d7-96d9-46b9-a493-88fe64ecae80" /><img width="640" height="263" alt="image" src="https://github.com/user-attachments/assets/a4d50bfa-58a3-4b38-8d2f-704ffd011d75" />
+
+
 # 👋 Hey, I'm Mark Tsyrul!
 
 [![Python 3.9+](https://img.shields.io/badge/Python-3.9%2B-blue.svg)](https://www.python.org/downloads/)
