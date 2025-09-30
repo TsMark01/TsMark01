@@ -29,7 +29,7 @@ I’m a 17-year-old Computer Science enthusiast from Russia, passionate about **
 
 ## My Social
 
-- [Telegram](https://t.me/your_channel) (replace with your actual channel link!)
-- [Email](mailto:your.email@example.com) (update with your email)
+- [Telegram](@Ts_Mark1)
+- [Email](marktsyrul@gmail.com) (update with your email)
 
-**Last Updated**: September 30, 2025
+
