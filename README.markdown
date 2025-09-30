@@ -1,4 +1,5 @@
-<img width="640" height="263" alt="image" src="https://github.com/user-attachments/assets/606be6d7-96d9-46b9-a493-88fe64ecae80" /><img width="640" height="263" alt="image" src="https://github.com/user-attachments/assets/a4d50bfa-58a3-4b38-8d2f-704ffd011d75" />
+<img width="1280" height="863" alt="image" src="https://github.com/user-attachments/assets/d85dea7d-2cd9-4c67-965b-c6db4922bc29" />
+
 
 
 # 👋 Hey, I'm Mark Tsyrul!
